@@ -1,4 +1,5 @@
 #!/usr/local/bin/python3
-pi = 3.14159
+from math import pi
+
 raio = 15.3
 print('Área do círculo', pi * raio ** 2)
